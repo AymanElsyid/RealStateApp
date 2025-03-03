@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealStateApp", "RealStateApp\RealStateApp.csproj", "{58CE3BB9-9EDA-4909-8FA2-F2F836DD0E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CE3BB9-9EDA-4909-8FA2-F2F836DD0E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CE3BB9-9EDA-4909-8FA2-F2F836DD0E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CE3BB9-9EDA-4909-8FA2-F2F836DD0E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CE3BB9-9EDA-4909-8FA2-F2F836DD0E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A24F85-0313-49CD-8A30-573C2148C59F}
+	EndGlobalSection
+EndGlobal
